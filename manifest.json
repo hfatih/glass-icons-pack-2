@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageType": "icon_pack",
   "name": "Glass Icons Pack 2 (Sunset & Warm Glass)",
-  "description": "Pembe, Kırmızı, Gün Batımı Turuncusu ve Sıcak Kehribar Sarısı Cam temalarında 2.000 adet fiziksel buzlu cam Stream Deck & Evoxdeck ikon paketi.",
+  "description": "Pembe, Kırmızı, Gün Batımı Turuncusu ve Sıcak Kehribar Sarısı Cam temalarında 2.000 adet fiziksel buzlu cam evoXdeck ikon paketi.",
   "version": "1.0.0",
   "author": {
     "id": "hfatih",
@@ -1517,11 +1517,6 @@
         "path": "icons/icon-1300-pink-pinterest.png"
       },
       {
-        "id": "icon-1301-pink-elgato",
-        "name": "Pink Elgato",
-        "path": "icons/icon-1301-pink-elgato.png"
-      },
-      {
         "id": "icon-1302-pink-razer",
         "name": "Pink Razer",
         "path": "icons/icon-1302-pink-razer.png"
@@ -1785,11 +1780,6 @@
         "id": "icon-1354-pink-cooler-master",
         "name": "Pink Cooler Master",
         "path": "icons/icon-1354-pink-cooler-master.png"
-      },
-      {
-        "id": "icon-1355-pink-patreon",
-        "name": "Pink Patreon",
-        "path": "icons/icon-1355-pink-patreon.png"
       },
       {
         "id": "icon-1356-pink-buy-me-a-coffee",
@@ -4017,11 +4007,6 @@
         "path": "icons/icon-2800-yellow-pinterest.png"
       },
       {
-        "id": "icon-2801-yellow-elgato",
-        "name": "Yellow Elgato",
-        "path": "icons/icon-2801-yellow-elgato.png"
-      },
-      {
         "id": "icon-2802-yellow-razer",
         "name": "Yellow Razer",
         "path": "icons/icon-2802-yellow-razer.png"
@@ -4285,11 +4270,6 @@
         "id": "icon-2854-yellow-cooler-master",
         "name": "Yellow Cooler Master",
         "path": "icons/icon-2854-yellow-cooler-master.png"
-      },
-      {
-        "id": "icon-2855-yellow-patreon",
-        "name": "Yellow Patreon",
-        "path": "icons/icon-2855-yellow-patreon.png"
       },
       {
         "id": "icon-2856-yellow-buy-me-a-coffee",
@@ -6517,11 +6497,6 @@
         "path": "icons/icon-3300-orange-pinterest.png"
       },
       {
-        "id": "icon-3301-orange-elgato",
-        "name": "Orange Elgato",
-        "path": "icons/icon-3301-orange-elgato.png"
-      },
-      {
         "id": "icon-3302-orange-razer",
         "name": "Orange Razer",
         "path": "icons/icon-3302-orange-razer.png"
@@ -6785,11 +6760,6 @@
         "id": "icon-3354-orange-cooler-master",
         "name": "Orange Cooler Master",
         "path": "icons/icon-3354-orange-cooler-master.png"
-      },
-      {
-        "id": "icon-3355-orange-patreon",
-        "name": "Orange Patreon",
-        "path": "icons/icon-3355-orange-patreon.png"
       },
       {
         "id": "icon-3356-orange-buy-me-a-coffee",
@@ -9017,11 +8987,6 @@
         "path": "icons/icon-3800-red-pinterest.png"
       },
       {
-        "id": "icon-3801-red-elgato",
-        "name": "Red Elgato",
-        "path": "icons/icon-3801-red-elgato.png"
-      },
-      {
         "id": "icon-3802-red-razer",
         "name": "Red Razer",
         "path": "icons/icon-3802-red-razer.png"
@@ -9285,11 +9250,6 @@
         "id": "icon-3854-red-cooler-master",
         "name": "Red Cooler Master",
         "path": "icons/icon-3854-red-cooler-master.png"
-      },
-      {
-        "id": "icon-3855-red-patreon",
-        "name": "Red Patreon",
-        "path": "icons/icon-3855-red-patreon.png"
       },
       {
         "id": "icon-3856-red-buy-me-a-coffee",
